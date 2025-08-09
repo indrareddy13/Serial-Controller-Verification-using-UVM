@@ -1,0 +1,2 @@
+var g_data = {"10":["mode_0","mode_1","mode_2","mode_3"],"11":["enabled","disabled"],"12":["tb8_on","tb8_off"],"13":["rb8_on","rb8_off"],"14":["tx_done","tx_not_done"],"15":["rx_done","rx_not_done"],"17":["mode_0","mode_1","mode_2","mode_3"],"18":["enabled","disabled"],"19":["tb8_on","tb8_off"],"20":["rb8_on","rb8_off"],"21":["tx_done","tx_not_done"],"22":["rx_done","rx_not_done"]};
+processCoverpointsMapData(g_data);
