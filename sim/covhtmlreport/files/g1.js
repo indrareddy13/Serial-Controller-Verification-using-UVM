@@ -1,2 +1,0 @@
-var g_data = {"8":{"pr":"/pkg","ty":2,"dui":2,"dun":"work.pkg","cvgs":[{"h":["\\/pkg::scoreboard::scon_coverage ",2,1,16,9],"cov":[14,14,100.00],"opts":{"goal":"100","per_instance":"true"}},{"h":["/pkg/scoreboard/scon_coverage",1,1,9],"cov":[14,14,100.00],"opts":{"goal":"100","merge_instance":"auto(true)"}}]}};
-processCovergroupsData(g_data);
